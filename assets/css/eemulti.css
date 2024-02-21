@@ -442,7 +442,7 @@ section {
   width: 100%;      
   min-height: 90vh;
   /*background: url("file:///home/lenovo/Downloads/WEB%20TEMPLATE/Gp/assets/img/cta-bg.jpg") fixed center;*/
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("/home/lenovo/Downloads/WEB TEMPLATE/Gp/assets/img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://piung.github.io/assets/img/cta-bg.jpg") fixed center center;
   background-size: cover;
   position: relative;
   padding: 200px 0;

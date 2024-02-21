@@ -153,7 +153,7 @@ nav{
     min-height: 110vh;
     /*background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://mdbootstrap.com/img/new/fluid/city/018.jpg") fixed center;*/
     /*background: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg") fixed center;*/
-    background: url("https://github.com/piung/piung.github.io/blob/b032659d1e24c9dfe7912280ceb2e55518bc7c8e/assets/img/about.jpg") fixed center;
+    background: url("../assets/img/about.jpg") fixed center;
     background-size: cover;
     position: relative;
     padding: 250px 0;

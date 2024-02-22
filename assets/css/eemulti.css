@@ -19,29 +19,14 @@ h2{
 h4{
     font-weight: 300;
 }
-/*
-nav{
-  margin-right :5%;
-  margin-left:  5%;
-  border-radius: 40px;
-}
-*/
+
 .navbar {
-    /*opacity : 0.7;*/
     font-weight: 300;
     visibility: visible;
     background: rgba(0, 0, 0, 0.664);
-    /*background:#070707;*/
     text-decoration: none;
 }
 .navbar-brand{
-  /*
-  margin-right: 12%;
-  font-weight: 500;
-  color : #fff;
-  padding-right:auto;
-  padding-left: auto;
-  */
   margin: 0 1%;
   width: 64px;
   height: 64px;
@@ -51,10 +36,6 @@ nav{
 .logo {
   height: 60px;
   width: auto;
-  /*
-  background: #929291;
-  border-radius: 50%;
-  */
 }
 
 .navbar-nav{
@@ -98,9 +79,8 @@ nav{
     color: #fff;
 }
 
-/*.dropdown-menu,*/
+
 .dropdown .dropdown-menu {
-    /*left: -100%;*/
     margin-top: 10%;
     background: rgba(0, 0, 0, 0.664);
     color: #fff;
@@ -151,8 +131,6 @@ nav{
 #intro{
     width: 100%;      
     min-height: 110vh;
-    /*background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://mdbootstrap.com/img/new/fluid/city/018.jpg") fixed center;*/
-    /*background: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg") fixed center;*/
     background: url("https://piung.github.io/assets/img/about.jpg") fixed center;
     background-size: cover;
     position: relative;
@@ -238,7 +216,6 @@ section {
   }
   
   .section-title h2 {
-    /*text-align: center;*/
     padding: 0;
     line-height: 1px;
     margin: 0 0 5px 0;
@@ -365,9 +342,6 @@ section {
 .services .icon-box:hover{
   box-shadow: 0 0 15px 0 #888888;
   border: 1px solid #ffc451;
-  /*border-radius: 50%;*/
-  /*background: rgba(201, 200, 200, 0.6);*/
-  /*box-shadow: 2px 0 25px 0 rgba(0, 0, 0, 0.1);*/
 }
 
 @media (max-width: 600px) {
@@ -441,7 +415,6 @@ section {
   
   width: 100%;      
   min-height: 90vh;
-  /*background: url("file:///home/lenovo/Downloads/WEB%20TEMPLATE/Gp/assets/img/cta-bg.jpg") fixed center;*/
   background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://piung.github.io/assets/img/cta-bg.jpg") fixed center center;
   background-size: cover;
   position: relative;
@@ -471,19 +444,6 @@ section {
   margin-left: 20%;
   font-weight: 400;
 }
-
-/*--------------------------------------------------------------
-# Sections Portfolio
-
-.section-title h2::after
-  content: "";
-  width: 120px;
-  height: 3px;
-  display: inline-block;
-  background: #ffde9e;
-  margin: 4px 10px;
-}
---------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
 # Portfolio

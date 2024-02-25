@@ -320,13 +320,6 @@ section {
 
   /*--------------------------------------------------------------
 # Sections services
-
-    padding: 25px 50px 75px 100px;
-        top padding is 25px
-        right padding is 50px
-        bottom padding is 75px
-        left padding is 100px
-
 --------------------------------------------------------------*/
 #services .g-md-5{
   margin:auto;
@@ -400,15 +393,6 @@ section {
 
 /*--------------------------------------------------------------
 # Sections CTA
-
-.section-title h2::after
-  content: "";
-  width: 120px;
-  height: 3px;
-  display: inline-block;
-  background: #ffde9e;
-  margin: 4px 10px;
-}
 --------------------------------------------------------------*/
 
 .cta{

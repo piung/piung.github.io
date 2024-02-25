@@ -337,7 +337,8 @@ section {
   box-shadow: 0 0 15px 0 #888888;
   border: 1px solid #ffc451;
     */
-    box-shadow: 0 0 3px 3px #b9b9b9;
+  box-shadow: 0 0 3px 3px #b9b9b9;
+  border: 1px solid #ffc451;
   border-radius: 5px;
 }
 
